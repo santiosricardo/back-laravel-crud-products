@@ -16,12 +16,6 @@
         "actions": [
             {
                 "action": "\\CaptainHook\\App\\Hook\\PHP\\Action\\Linting"
-            },
-            {
-                "action": "y"
-            },
-            {
-                "action": "phpcs --standard=psr2 src"
             }
         ]
     }
