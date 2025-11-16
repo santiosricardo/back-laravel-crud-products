@@ -19,6 +19,9 @@
             },
             {
                 "action": "y"
+            },
+            {
+                "action": "phpcs --standard=psr2 src"
             }
         ]
     }
